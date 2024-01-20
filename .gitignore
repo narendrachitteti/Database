@@ -1,7 +1,2 @@
-/forgot.js
-/for_model.js
-/login.js
-/login_model.js
-/register.js
-/register_model.js
-/server_model.js
+node_modules/
+.env
